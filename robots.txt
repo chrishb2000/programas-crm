@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://christian-freelance.us/programas/sitemap.xml
